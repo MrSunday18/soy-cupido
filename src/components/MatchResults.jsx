@@ -21,8 +21,8 @@ const emojis_por_interes = {
   "Cine": "🎬",
   "Lectura": "📚",
   "Viajar": "✈️",
-  "Sí":"✅",
-  "No":"❎"
+  "Si":"✅",
+  "No":"👎"
 };
 
 const replaceWithEmojis = (text) => {

@@ -9,7 +9,7 @@ translation_map = {
     "Long-term Relationship": "Relación a largo plazo",
     "Marriage": "Matrimonio",
     "Friendship": "Amistad",
-    "Yes": "Sí",
+    "Yes": "Si",
     "No": "No",
     "Maybe": "Tal vez",
     "Sports": "Deportes",
